@@ -1,5 +1,4 @@
-#Gastro-At-Home
-
+**Gastro-At-Home**
 
 All in one resource center for gastroenterology disorders and treatments
 
