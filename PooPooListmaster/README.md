@@ -1,4 +1,4 @@
-#Gastro-At-Home
+#Gastro-At-Home \n
 All in one resource center for gastroenterology disorders and treatments
 
 Find youtube demo here:
